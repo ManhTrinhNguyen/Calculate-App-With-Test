@@ -1,5 +1,7 @@
 # Project Name
 
+Calulator App
+
 ## Description
 
 This project is the outcome of learning to code by creating a calculator.
