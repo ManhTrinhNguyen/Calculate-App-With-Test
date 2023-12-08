@@ -42,9 +42,9 @@ To keep the code standard, we have the prettier library install and available as
 
 `npm run format:prettier`
 
-### Submitting a PR
+### Submitting a PR(Pull Request)
 
-If you are not familiar with the PR process, let us take this opportunity to introduce you to one of the most essential aspects of collaborative software development. Here's a simple and clear explanation:
+If you are not familiar with the PR(Pull Request) process, let us take this opportunity to introduce you to one of the most essential aspects of collaborative software development. Here's a simple and clear explanation:
 
 ---
 
